@@ -172,7 +172,7 @@ const sendUserMessage = async (toEmail, message) => {
                 <p>Thank you for contacting Digiblocks!</p>
               </div>
               <div class="footer">
-                <p>For any further inquiries, please contact us at +91-9945015551 or email us at contact@digiblocks.tech</p>
+                <p>For any further inquiries, please contact us at +91-9945015551 or email us at admin@digiblocks.tech</p>
               </div>
             </div>
           </body>
